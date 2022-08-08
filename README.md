@@ -12,5 +12,5 @@
 # Resultado
 
 <h1 align="center">
-  <img alt="Portfólio" title="#Portfólio" src="./projct.gif" />
+  <img alt="Portfólio" title="#Portfólio" src="./project.gif" />
 </h1>
